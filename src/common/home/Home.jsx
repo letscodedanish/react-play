@@ -75,7 +75,7 @@ const Home = () => {
             <div className="item-icon">
               <BiShareAlt className="icon" color="var(--color-neutral-90)" />
             </div>
-            <h2 className="item-title">Socialize </h2>
+            <h2 className="item-title">Socializeee </h2>
             <p className="item-desc">
               Share your plays with the community. The best way of building in public is by sharing
               the learning. You can share your plays on social media platforms like Facebook,
